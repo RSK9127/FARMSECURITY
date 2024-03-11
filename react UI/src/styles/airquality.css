@@ -1,0 +1,32 @@
+.lineChartStyle {
+    /* position: absolute; */
+    background-Color:  rgba(0,0,0,0.6);
+    border-Radius: 10px;
+    padding:  20px;
+}
+.chartContainerStyle{
+    position:  relative ;
+    height:  800px ;
+    width:  100% ;
+    display:  flex ;
+    flex-Direction:  column ;
+    align-Items: center ;
+    justify-Content:center ;
+    text-Align:  center ;
+    color:  rgb(223, 106, 27) 
+}
+
+.heading{
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: rgb(13, 0, 255);
+}
+.background-air{
+    height: 800px;
+    width: 100%;
+    background: linear-gradient(to bottom, #90EE90, #006400);
+
+}
